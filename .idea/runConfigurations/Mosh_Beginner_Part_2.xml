@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mosh Beginner Part 2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Project.Main" />
+    <module name="Mosh Beginner Part 2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
